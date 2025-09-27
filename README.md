@@ -1,4 +1,4 @@
-# WhatsApp Web Custom Background Changer
+# WhatsApp Web Custom Background Changer for Firefox
 
 This extension lets you **customize the background image** of your WhatsApp Web chats.  
 With it, you can set any image as the chat background, adjust its opacity, and have your settings saved automatically so they persist across sessions.
